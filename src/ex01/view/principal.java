@@ -1,6 +1,6 @@
-package view;
+package ex01.view;
 
-import controle.*;
+import ex01.controle.*;
 
 public class principal {
 	public static void main(String[] args) {
